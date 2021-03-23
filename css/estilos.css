@@ -12,3 +12,12 @@ h1{
 p{
     text-align: justify;
 }
+
+#contenedor{
+    background-color: darkgray;
+    padding: 20px;
+}
+
+#contenedor img{
+    width: 100%;
+}
